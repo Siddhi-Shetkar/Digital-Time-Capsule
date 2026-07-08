@@ -17,7 +17,7 @@ Digital Time Capsule is a full-stack web application that allows users to store 
 ### Frontend
 - HTML
 - React
-- Vanilla CSS
+- CSS
 - JavaScript
 
 ### Backend
